@@ -1,0 +1,15 @@
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\bin\Debug\net7.0\2-orientacaoAobjetos.exe
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\bin\Debug\net7.0\2-orientacaoAobjetos.deps.json
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\bin\Debug\net7.0\2-orientacaoAobjetos.runtimeconfig.json
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\bin\Debug\net7.0\2-orientacaoAobjetos.dll
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\bin\Debug\net7.0\2-orientacaoAobjetos.pdb
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.csproj.AssemblyReference.cache
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.AssemblyInfoInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.AssemblyInfo.cs
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.csproj.CoreCompileInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.dll
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\refint\2-orientacaoAobjetos.dll
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.pdb
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\2-orientacaoAobjetos.genruntimeconfig.cache
+C:\Users\henrr\OneDrive\Documentos\www\alura\csharp\2-orientacaoAobjetos\obj\Debug\net7.0\ref\2-orientacaoAobjetos.dll
